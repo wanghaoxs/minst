@@ -28,3 +28,6 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-build
 pip3 install opencv-python
 
 vscode远程连接  https://zhuanlan.zhihu.com/p/361934730
+
+运行main.py训练模型
+运行test.py测试
